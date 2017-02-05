@@ -1,0 +1,9 @@
+target
+META-INF
+template.mf
+.idea
+.mvn
+mvnw
+mvnw.cmd
+MuseJamTest.iml
+
